@@ -1,0 +1,1 @@
+javascript:var x=document.getElementsByTagName('a');for(var i=0;i<x.length;i++){if (x[i].getAttribute('role')=='checkbox'){x[i].click();}};alert('Finito! Tutti i tuoi amici sono stati selezionati. Developed by Giuseppe Ferrara!');
